@@ -1,1 +1,2 @@
-# js-algorithms-and-data-structures-masterclass
+# JavaScript Algorithms and Data Structures Masterclass
+Repo for the lessons on the "[JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass)" by [Colt Stelee](https://www.youtube.com/c/ColtSteeleCode) on [Udemy](https://www.udemy.com).
